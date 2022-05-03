@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi BRUH 👋
 
 <!--
 **4cecoder/4cecoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![image](https://user-images.githubusercontent.com/88108711/166393324-af7f0dca-641f-4a9b-8012-96e6b2849551.png)
