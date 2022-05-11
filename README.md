@@ -2,20 +2,20 @@
 
 ME: 
 
-currennly lurning go + with webesssssssembluh breh
+- currennly lurning go + with webesssssssembluh breh
 
-uses gentoo
+- uses gentoo
 
 
 You: 
 
-dont' enven use vim 
+- dont' enven use vim 
 
-probably use vscode
+- probably use vscode
 
-probably use python
+- probably use python
 
-uses windows
+- uses windows
 
 
 <!--
