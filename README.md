@@ -1,6 +1,6 @@
 ### AYYYYYYE 👋
 
-ME: currennly lurning go + with webassembly breh
+ME: currennly lurning go + with webesssssssembluh breh
 
 uses gentoo
 
