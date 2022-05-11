@@ -1,7 +1,9 @@
 ### AYYYYYYE 👋
 
 currennly lurning go + with webassembly breh
+
 u dont' enven use vim 
+
 u probably use vscode
 
 <!--
