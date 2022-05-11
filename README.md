@@ -1,6 +1,8 @@
 ### AYYYYYYE 👋
 
-currently lurning go + webassembly together
+currennly lurning go + with webassembly breh
+u dont' enven use vim 
+u probably use vscode
 
 <!--
 **4cecoder/4cecoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
