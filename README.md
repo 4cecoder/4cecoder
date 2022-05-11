@@ -1,6 +1,8 @@
 ### AYYYYYYE 👋
 
-ME: currennly lurning go + with webesssssssembluh breh
+ME: 
+
+currennly lurning go + with webesssssssembluh breh
 
 uses gentoo
 
