@@ -11,7 +11,7 @@ You:
 
 - dont' enven use vim 
 
-- probably use vscode
+  - probably use vscode
 
 - probably use python
 
