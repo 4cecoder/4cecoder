@@ -2,7 +2,8 @@
 
 ME: 
 
-- currennly lurning go + with webesssssssembluh breh
+- currennly lurning go
+  -  with webesssssssembluh breh
 
 - uses gentoo
 
