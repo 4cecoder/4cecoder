@@ -1,6 +1,6 @@
 ### AYYYYYYE 👋
 
-ME: ------------------------------ You: 
+ME: --------------------------------- You: 
 
 - currennly lurning go  ------------- dont' enven use vim 
  
