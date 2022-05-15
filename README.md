@@ -1,23 +1,12 @@
 ### AYYYYYYE 👋
 
-ME: 
+ME:                                     You: 
 
-- currennly lurning go
-  -  with webesssssssembluh breh
-
-- uses gentoo
-
-
-You: 
-
-- dont' enven use vim 
-
-  - probably use vscode
-
-- probably use python
-
-- uses windows
-
+- currennly lurning go                      - dont' enven use vim 
+  -  with webesssssssembluh breh            - probably use vscode
+                                            - probably use python
+- uses gentoo                               - uses windows
+                             
 
 <!--
 **4cecoder/4cecoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
