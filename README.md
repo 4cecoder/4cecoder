@@ -1,15 +1,14 @@
 ### AYYYYYYE 👋
 
-ME: ---------------------------------------- You: 
+ME: ------------------------------ You: 
 
-- currennly lurning go  --------- - dont' enven use vim 
+- currennly lurning go  ---------- dont' enven use vim 
  
--  with webassembly ------------- - probably use vscode  
-   
+-  with webassembly -------------- probably use vscode  
     
---------------------------------- - probably use python
-    
-- uses gentoo ------------------- - uses windows
+- uses gentoo -------------------- uses windows
+
+---------------------------------- probably use python
                              
 
 <!--
