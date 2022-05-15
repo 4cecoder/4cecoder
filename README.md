@@ -4,7 +4,7 @@ ME: --------------------------------- You:
 
 - currennly lurning go  ---------------- dont' enven use vim 
  
--  with webassembly ------------------- probably use vscode  
+-  with webassembly ------------------ probably use vscode  
     
 - uses gentoo ------------------------ uses windows
 
