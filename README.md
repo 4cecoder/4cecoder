@@ -4,11 +4,11 @@ ME: --------------------------------- You:
 
 - currennly lurning go  ---------------- dont' enven use vim 
  
--  with webassembly ------------------ probably use vscode  
+-  with webassembly ------------------ probably uses vscode  
     
 - uses gentoo ------------------------ uses windows
 
------------------------------------------ probably use python
+----------------------------------------- probably uses python
                              
 
 <!--
