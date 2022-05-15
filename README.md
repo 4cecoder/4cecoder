@@ -2,13 +2,13 @@
 
 ME: ------------------------------ You: 
 
-- currennly lurning go  ---------- dont' enven use vim 
+- currennly lurning go  ----------- dont' enven use vim 
  
 -  with webassembly -------------- probably use vscode  
     
-- uses gentoo -------------------- uses windows
+- uses gentoo --------------------- uses windows
 
----------------------------------- probably use python
+----------------------------------- probably use python
                              
 
 <!--
