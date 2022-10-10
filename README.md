@@ -10,11 +10,6 @@
                                    probably uses python
 ```
  <div align="center">
- 
-![image](https://user-images.githubusercontent.com/88108711/166393324-af7f0dca-641f-4a9b-8012-96e6b2849551.png)
-
-
-<br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=4cecoder&theme=onedark)](https://github.com/GNRain/github-profile-trophy)
 
