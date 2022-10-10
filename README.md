@@ -9,7 +9,9 @@
 
                                    probably uses python
 ```
+
  <div align="center">
+ <br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=4cecoder&theme=onedark)](https://github.com/GNRain/github-profile-trophy)
 
