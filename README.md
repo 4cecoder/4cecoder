@@ -1,13 +1,13 @@
 ```
-         ME: ----------VS------------ You: 
+                             ME: ----------VS------------ You: 
 
-  currennl using go                dont' enven use vim 
+                    currennl using go                dont' enven use vim 
  
-  and webassembly                  probably uses vscode  
+                    and webassembly                  probably uses vscode  
     
-  uses gentoo                      uses windows
-
-                                   probably uses python
+                    uses gentoo                      uses windows
+                  
+                                                     probably uses python
 ```
 
  <div align="center">
