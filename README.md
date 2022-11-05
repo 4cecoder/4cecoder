@@ -1,4 +1,3 @@
-[![Github](https://img.shields.io/github/followers/4cecoder?label=Follow&style=social)](https://github.com/4cecoder)
 
 ```
                              ME: ----------VS------------ You: 
@@ -13,6 +12,9 @@
 ```
 
  <div align="center">
+  
+[![Github](https://img.shields.io/github/followers/4cecoder?label=Follow&style=social)](https://github.com/4cecoder)
+
  <br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=4cecoder&theme=onedark)](https://github.com/GNRain/github-profile-trophy)
