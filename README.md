@@ -1,3 +1,5 @@
+[![Github](https://img.shields.io/github/followers/4cecoder?label=Follow&style=social)](https://github.com/4cecoder)
+
 ```
                              ME: ----------VS------------ You: 
 
