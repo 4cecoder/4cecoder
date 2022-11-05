@@ -41,8 +41,9 @@
 <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 -->
-<p align="left">
-  <a href="https://skillicons.dev">
+  
+<p align="center">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=git,docker,angular,azure,bash,css,docker,electron,github,gitlab,go,grafana,html,js,jenkins,jquery,kubernetes,laravel,linux,lua,md,mongodb,mysql,nginx,nodejs,php,py,qt,react,redis,sqlite,selenium,ts,unreal,unity,vscode,vue,vim,webpack,bootstrap,graphql,java,powershell,stackoverflow," />
     <img style="margin-left:0px" height="48" width="48" src="https://raw.githubusercontent.com/fanyixuanf/fanyixuanf/master/icons/xampp.svg">
     <img style="margin-left:4px" height="48" width="48" src="https://raw.githubusercontent.com/fanyixuanf/fanyixuanf/master/icons/Alfred.svg">
