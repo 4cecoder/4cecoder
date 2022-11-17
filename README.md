@@ -67,7 +67,7 @@
 <br>
          
          
-### Who doesn't love a beer?
+### Who doesn't luv a biru?
 <a href="https://www.buymeacoff.ee/4cecoder">
 <img src="https://media3.giphy.com/media/ywJSZxwmqhkau1sjSX/giphy.gif" width="100px"/></a>
          
