@@ -42,7 +42,7 @@
   
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=git,docker,angular,azure,bash,css,docker,electron,github,gitlab,go,grafana,html,js,jenkins,jquery,kubernetes,laravel,linux,lua,md,mongodb,mysql,nginx,nodejs,php,py,qt,react,redis,sqlite,selenium,ts,unreal,unity,vscode,vue,vim,webpack,bootstrap,graphql,java,powershell,stackoverflow," />
+    <img src="https://skillicons.dev/icons?i=git,docker,angular,azure,bash,docker,electron,github,gitlab,go,grafana,html,js,jenkins,jquery,kubernetes,laravel,linux,lua,md,mongodb,mysql,nginx,nodejs,php,py,qt,react,redis,sqlite,selenium,ts,unreal,unity,vscode,vue,vim,webpack,bootstrap,graphql,java,powershell,stackoverflow," />
     <img style="margin-left:0px" height="48" width="48" src="https://raw.githubusercontent.com/fanyixuanf/fanyixuanf/master/icons/xampp.svg">
     <img style="margin-left:4px" height="48" width="48" src="https://raw.githubusercontent.com/fanyixuanf/fanyixuanf/master/icons/Alfred.svg">
     <img style="margin-left:4px" height="48" width="48" src="https://raw.githubusercontent.com/fanyixuanf/fanyixuanf/master/icons/AmazonS3.svg">
