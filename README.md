@@ -4,7 +4,9 @@
 
  <br>
 
-As a seasoned Backend Software Engineer, I specialize in seamless integration with large cloud platforms, leveraging cutting-edge technologies to drive optimization and enhance user experience. With my expertise in Go, Python, and other backend languages, I deliver high-performance, scalable, and reliable solutions tailored to the needs of each project. Whether working on a greenfield project or optimizing existing systems, I am committed to delivering exceptional results and driving business success. My skills in cloud computing, serverless architecture, microservices, and optimization make me a valuable addition to any team focused on delivering top-notch backend solutions.
+As a seasoned Backend Software Engineer, I specialize in seamless integration with large cloud platforms, leveraging cutting-edge technologies to drive optimization and enhance user experience. With my expertise in Go, Rust, Typescript and other backend software stacks from scratch, I deliver high-performance, scalable, and reliable solutions tailored to the needs of each project. 
+
+Whether working on a greenfield project or optimizing existing systems, I am committed to delivering exceptional results and driving business success. My skills in cloud computing, serverless architecture, microservices, and optimization make me a valuable addition to any team focused on delivering top-notch backend solutions.
 
 ## Hey, I'm a skilled Codesmith 👇
 
