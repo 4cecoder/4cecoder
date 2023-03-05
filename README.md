@@ -4,7 +4,9 @@
 
  <br>
 
-### I'm an expert Backend Engineer skilled in Go, Rust, and Typescript, specializing in integrating cloud platforms and cutting-edge tech to enhance user experience. My passion for AI and machine learning drives me to design custom algorithms and integrate models for optimal results.
+### TLDR: I'm an expert Backend Engineer skilled in Go, Rust, and Typescript, specializing in integrating cloud platforms and cutting-edge tech to enhance user experience. My passion for AI and machine learning drives me to design custom algorithms and integrate models for optimal results.
+
+<br>
 
 # Revolutionize Your Backend: Seamlessly Integrate Cloud Platforms and AI with a Seasoned Engineer
 
