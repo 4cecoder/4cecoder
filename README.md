@@ -4,9 +4,11 @@
 
  <br>
 
+### TLDR: I'm an expert Backend Engineer skilled in Go, Rust, and Typescript, specializing in integrating cloud platforms and cutting-edge tech to enhance user experience. My passion for AI and machine learning drives me to design custom algorithms and integrate models for optimal results.
+
  <a href="https://gitroll.io/profile/ufJKwr7QbgiWfmwUpbY4A2znCkin2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ufJKwr7QbgiWfmwUpbY4A2znCkin2" alt="GitRoll Profile Badge"/></a>
 
-### TLDR: I'm an expert Backend Engineer skilled in Go, Rust, and Typescript, specializing in integrating cloud platforms and cutting-edge tech to enhance user experience. My passion for AI and machine learning drives me to design custom algorithms and integrate models for optimal results.
+
 
 <br>
 
